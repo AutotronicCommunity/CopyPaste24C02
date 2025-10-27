@@ -1,1 +1,2 @@
-Khusus untuk SCU Yamaha & Suzuki
+1. Khusus untuk SCU Yamaha & Suzuki
+2. Menggunakan Arduino Nano
